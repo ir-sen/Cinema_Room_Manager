@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Floating-point types/Difference between two doubles/out/
+/Topics/Floating-point types/Difference between two doubles/out/production/classes/
+/Topics/Floating-point types/Distance/out/
+/Topics/Floating-point types/Distance/out/production/classes/
+/Topics/Floating-point types/Evaluate an expression/out/
+/Topics/Floating-point types/Evaluate an expression/out/production/classes/
+/Topics/Taming exceptions/Handle arithmetic exception/out/
+/Topics/Taming exceptions/Handle arithmetic exception/out/production/classes/
+/Topics/When expression/Floor-space of the room/out/
+/Topics/When expression/Floor-space of the room/out/production/classes/
